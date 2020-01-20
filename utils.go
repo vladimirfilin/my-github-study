@@ -26,3 +26,11 @@ func Round(x float64, prec int) float64 {
 	}
 	return rounder / pow
 }
+
+// MaxInt64 returns the larger of x or y.
+func MaxInt64(x, y int64) int64 {
+	if x > y {
+		return x
+	}
+	return y
+}
