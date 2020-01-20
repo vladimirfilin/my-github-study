@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	var txt string = "Hello World!"
+	var txt string = "Hello World!!!!!"
 	fmt.Printf("txt: %q\n", txt)
 }
