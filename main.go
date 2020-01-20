@@ -7,5 +7,5 @@ import (
 
 func main() {
 	var txt string = "Hello World!"
-	fmt.Println(txt)
+	fmt.Printf("txt: %q\n", txt)
 }
