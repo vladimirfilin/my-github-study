@@ -9,6 +9,6 @@ func main() {
 	var txt string = "Hello World! It's vladimirfilin!"
 	fmt.Printf("txt: %q\n", txt)
 
-	txt = "Hello World! It's vladimirfilin2!"
+	txt = "Hello World! It's vladimirfilin2!!!"
 	fmt.Printf("txt: %q\n", txt)
 }
